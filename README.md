@@ -1,1 +1,1 @@
-# Alura-2-Advanced-Queries-in-SQL
+# Alura-2-Advanced-queries-in-SQL
